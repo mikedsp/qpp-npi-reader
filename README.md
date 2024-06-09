@@ -5,4 +5,4 @@ The program, NPI Reader - 11.ipynb, is a python-based Jupyter Notebook that give
 
 See the file, qpp-npi-reader.docx, for details on how to use the program
 
-The file, 2022 and 2023 QPP Data Analysis.pdf, contains an analysis of 11,427 National Provider Identifiers  that were extracted from the QPP Participation Status web site on May 31, 2024 for years 2022 and 2023. 
+The file, 2022 and 2023 QPP Data Analysis.pdf, contains an analysis of 11,427 National Provider Identifiers extracted from the QPP Participation Status web site on May 31, 2024 for years 2022 and 2023. 
